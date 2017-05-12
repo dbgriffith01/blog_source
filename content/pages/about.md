@@ -8,4 +8,4 @@ I am a Data Scientist at [Minitab](http://minitab.com). This blog is mainly a ve
 
 ## Conference Presentations
 
-* [Predictive Analytics in Healthcare](./presentations/LSS-102_Santiago_Predictive Analytics and Quality Control in Healthcare_PPT.pdf)
+* [Predictive Analytics in Healthcare](https://dbgriffith01.github.io/downloads/presentations/LSS-102_Santiago_Predictive%20Analytics%20and%20Quality%20Control%20in%20Healthcare_PPT.pdf)
