@@ -6,7 +6,7 @@ Template: about
 My name is Daniel Griffith.
 I am a Data Scientist at [Minitab](http://minitab.com). This blog is mainly a vehicle I can use to help myself better understand the concepts that I am learning. If it ends up benefitting others, even better.
 
-I have also linked to some conference presentations, and may add more projects that I'm working on to this page in the future.
+I have also linked to some conference presentations, and a few projects.  Hopefully, I'll add some more of my talks/projects shortly.
 
 ## Conference Presentations
 
@@ -17,3 +17,9 @@ I have also linked to some conference presentations, and may add more projects t
 * [Process Capability: History, Assumptions and Challenges](https://dbgriffith01.github.io/downloads/presentations/ProcessCapa.pdf)
 
 * [Minitab: Engine, Not Interface](https://nbviewer.jupyter.org/github/dbgriffith01/Insights/blob/master/Engine%20not%20Interface.ipynb)
+
+## Projects
+
+* [Minitab Syntax Highlighter](https://marketplace.visualstudio.com/items?itemName=dbgriffith01.minitab)
+
+* [Template for creating Minitab Add-In in C#](https://github.com/dbgriffith01/Minitab-Add-in)
