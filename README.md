@@ -1,13 +1,9 @@
-# Source for http://jakevdp.github.io
-
-This repository contains the source for http://jakevdp.github.io/.
-
 ## Building the Blog
 
 Clone the repository & make sure submodules are included
 
 ```
-$ git clone https://github.com/jakevdp/jakevdp.github.io-source.git
+$ git clone git@github.com:dbgriffith01/blog_source.git
 $ git submodule update --init --recursive
 ```
 
