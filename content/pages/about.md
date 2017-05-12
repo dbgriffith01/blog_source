@@ -8,7 +8,7 @@ I am a Data Scientist at [Minitab](http://minitab.com). This blog is mainly a ve
 
 I have also linked to some conference presentations, and a few projects.  Hopefully, I'll add some more of my talks/projects shortly.
 
-## Conference Presentations
+### Conference Presentations
 
 * [Predictive Analytics in Healthcare](https://dbgriffith01.github.io/downloads/presentations/LSS-102_Santiago_Predictive%20Analytics%20and%20Quality%20Control%20in%20Healthcare_PPT.pdf)
 
@@ -18,7 +18,7 @@ I have also linked to some conference presentations, and a few projects.  Hopefu
 
 * [Minitab: Engine, Not Interface](https://nbviewer.jupyter.org/github/dbgriffith01/Insights/blob/master/Engine%20not%20Interface.ipynb)
 
-## Projects
+### Projects
 
 * [Minitab Syntax Highlighter](https://marketplace.visualstudio.com/items?itemName=dbgriffith01.minitab)
 
