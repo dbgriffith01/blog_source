@@ -15,3 +15,5 @@ I have also linked to some conference presentations, and may add more projects t
 * [The Future of Design of Experiments](https://dbgriffith01.github.io/downloads/presentations/The Future of Design of Experiments...is it Optimal.pdf)
 
 * [Process Capability: History, Assumptions and Challenges](https://dbgriffith01.github.io/downloads/presentations/ProcessCapa.pdf)
+
+* [Minitab: Engine, Not Interface](https://nbviewer.jupyter.org/github/dbgriffith01/Insights/blob/master/Engine%20not%20Interface.ipynb)
